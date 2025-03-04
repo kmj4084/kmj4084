@@ -21,6 +21,10 @@ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
    
+## 🔗 Connect with Me  
+<a href="https://www.linkedin.com/in/andrewkim9607/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30" alt="LinkedIn">
+</a>
 
 
  
