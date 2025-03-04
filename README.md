@@ -20,6 +20,10 @@ Platforms & Languages
 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+##  Featured Project
+[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SKNETWORKS-FAMILY-AICAMP&repo=SKN07-2nd-1Team&theme=tokyonight)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-1Team)
+
    
 ## 🔗 Connect with Me  
 <a href="https://www.linkedin.com/in/andrewkim9607/" target="_blank">
