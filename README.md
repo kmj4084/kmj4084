@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-I am minjae kim! I live in Seoul, South Korea!! And welcome to my GitHub profile!!!
+I am Minjae Kim! I live in Seoul, South Korea!! And welcome to my GitHub profile!!!
 
 😄  I am never afraid to take on new challenges; instead, I embrace them with enthusiasm and find joy in accomplishing my goals. No matter the situation, I adapt faster than anyone else and always strive to deliver outstanding results. This mindset is the core of my personal motto.
 
