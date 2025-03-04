@@ -21,7 +21,7 @@ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-##  Featured Project
+##  📚 Recently Studied Projects
 [![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SKNETWORKS-FAMILY-AICAMP&repo=SKN07-2nd-1Team&theme=tokyonight)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-1Team)
 
    
